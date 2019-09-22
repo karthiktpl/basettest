@@ -1,0 +1,13 @@
+.UserOutput{
+	margin: 15px auto;
+	width: 50%;
+	border: solid 1px #afafaf;
+	background-color: #fff;
+	padding: 10px;
+}
+.UserOutput p {
+	color:#000;
+	text-align: justify;
+	border-bottom: solid 5px #afafaf;
+	padding: 5px;
+}
